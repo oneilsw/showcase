@@ -16,7 +16,7 @@ If you have any ideas on how to improve on this application, please contact me a
 ## Languages and Framework
 **Front End**
 * React.js
-* Semantic UI - React
+* [Semantic UI - React](https://react.semantic-ui.com/) 
 
 ## Installation 
 1. Clone down the repo and cd into the directory.
