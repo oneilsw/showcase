@@ -7,9 +7,28 @@
   pointer-events: none;
 }
 
+.nav-font{
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@media only screen and (min-width: 576px){
+  img {
+    width: 1500px;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 575px){
+  img {
+    width: 325px;
+    
   }
 }
 
