@@ -1,6 +1,6 @@
 # Showcase
 
-This application allows users to view information on a certain event, purchase tickets for said event, recieve a reciept of purchase, and able to contact the organizer. Inspiration is taken from [Roots Picnic](http://rootspicnic.com/philly/)
+This application allows users to view information on a certain event, purchase tickets for said event, recieve a reciept of purchase through email, and the ability to contact the organizer. Inspiration is taken from [Roots Picnic](http://rootspicnic.com/philly/)
 
 My idea is to go with it being a single page application, with modals for the ticket purchasing and contacting. Havent decided if i want a login.
 
@@ -17,6 +17,9 @@ If you have any ideas on how to improve on this application, please contact me a
 **Front End**
 * [React.js](https://reactjs.org/)
 * [Semantic UI - React](https://react.semantic-ui.com/) 
+
+**Back End**
+Still learning Mongo for the models and relationships. May say fuck it, and just make it easily with Ruby on Rails.
 
 ## Installation 
 1. Clone down the repo and cd into the directory.
