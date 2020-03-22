@@ -1,6 +1,6 @@
 # Showcase
 
-This application allows users to view information on a certain event, purchase tickets for said event, recieve a reciept of purchase, and able to contact the organizer. Inspiration is taken from http://rootspicnic.com/philly/
+This application allows users to view information on a certain event, purchase tickets for said event, recieve a reciept of purchase, and able to contact the organizer. Inspiration is taken from [Roots Picnic](http://rootspicnic.com/philly/)
 
 My idea is to go with it being a single page application, with modals for the ticket purchasing and contacting. Havent decided if i want a login.
 
@@ -15,7 +15,7 @@ If you have any ideas on how to improve on this application, please contact me a
 
 ## Languages and Framework
 **Front End**
-* React.js
+* [React.js](https://reactjs.org/)
 * [Semantic UI - React](https://react.semantic-ui.com/) 
 
 ## Installation 
